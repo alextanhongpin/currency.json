@@ -1,0 +1,118 @@
+{"code":"PLN","decimal_digits":2,"name":"Polish Zloty","name_plural":"Polish zlotys","rounding":0,"symbol":0,"symbol_native":"zł","_id":"0BjfqRTBLHAcguog"}
+{"code":"JOD","decimal_digits":3,"name":"Jordanian Dinar","name_plural":"Jordanian dinars","rounding":0,"symbol":0,"symbol_native":"د.أ.‏","_id":"0HkH22o67iFsHAsG"}
+{"code":"UAH","decimal_digits":2,"name":"Ukrainian Hryvnia","name_plural":"Ukrainian hryvnias","rounding":0,"symbol":0,"symbol_native":"₴","_id":"1HTKE40t5Hunqqz7"}
+{"code":"SYP","decimal_digits":0,"name":"Syrian Pound","name_plural":"Syrian pounds","rounding":0,"symbol":0,"symbol_native":"ل.س.‏","_id":"2477DFuWdmWh6Fbp"}
+{"code":"TWD","decimal_digits":2,"name":"New Taiwan Dollar","name_plural":"New Taiwan dollars","rounding":0,"symbol":0,"symbol_native":"NT$","_id":"3xvuFU14veUtZk8E"}
+{"code":"MDL","decimal_digits":2,"name":"Moldovan Leu","name_plural":"Moldovan lei","rounding":0,"symbol":0,"symbol_native":"MDL","_id":"5XtaXKPQJjdUatHz"}
+{"code":"PAB","decimal_digits":2,"name":"Panamanian Balboa","name_plural":"Panamanian balboas","rounding":0,"symbol":0,"symbol_native":"B/.","_id":"6O4A5vT0Q3XjnQar"}
+{"code":"AZN","decimal_digits":2,"name":"Azerbaijani Manat","name_plural":"Azerbaijani manats","rounding":0,"symbol":0,"symbol_native":"ман.","_id":"6OU9rIANSRmNt7vI"}
+{"code":"AUD","decimal_digits":2,"name":"Australian Dollar","name_plural":"Australian dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"6oHIx1GjcscgDGAh"}
+{"code":"CNY","decimal_digits":2,"name":"Chinese Yuan","name_plural":"Chinese yuan","rounding":0,"symbol":0,"symbol_native":"CN¥","_id":"7SZbZzSAnITG7CeT"}
+{"code":"PYG","decimal_digits":0,"name":"Paraguayan Guarani","name_plural":"Paraguayan guaranis","rounding":0,"symbol":0,"symbol_native":"₲","_id":"7u5gsEMgYnjEV4QA"}
+{"code":"BGN","decimal_digits":2,"name":"Bulgarian Lev","name_plural":"Bulgarian leva","rounding":0,"symbol":0,"symbol_native":"лв.","_id":"8bW3pYdoUl5Fpsi9"}
+{"code":"COP","decimal_digits":0,"name":"Colombian Peso","name_plural":"Colombian pesos","rounding":0,"symbol":0,"symbol_native":"$","_id":"BGYzGpmL4FKrQaNm"}
+{"code":"PKR","decimal_digits":0,"name":"Pakistani Rupee","name_plural":"Pakistani rupees","rounding":0,"symbol":0,"symbol_native":"₨","_id":"C1AczrVr6KwbA71a"}
+{"code":"YER","decimal_digits":0,"name":"Yemeni Rial","name_plural":"Yemeni rials","rounding":0,"symbol":0,"symbol_native":"ر.ي.‏","_id":"DJ4JUxvPCUyE11Zq"}
+{"code":"AFN","decimal_digits":0,"name":"Afghan Afghani","name_plural":"Afghan Afghanis","rounding":0,"symbol":0,"symbol_native":"؋","_id":"DTrKS3Ec0zSQgCFU"}
+{"code":"KWD","decimal_digits":3,"name":"Kuwaiti Dinar","name_plural":"Kuwaiti dinars","rounding":0,"symbol":0,"symbol_native":"د.ك.‏","_id":"EBbK2ZXEYTOUk8aP"}
+{"code":"TTD","decimal_digits":2,"name":"Trinidad and Tobago Dollar","name_plural":"Trinidad and Tobago dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"ErWtZK3nvzZWTftY"}
+{"code":"ISK","decimal_digits":0,"name":"Icelandic Króna","name_plural":"Icelandic krónur","rounding":0,"symbol":0,"symbol_native":"kr","_id":"Gf4z6p4SBMvuW1lF"}
+{"code":"TRY","decimal_digits":2,"name":"Turkish Lira","name_plural":"Turkish Lira","rounding":0,"symbol":0,"symbol_native":"TL","_id":"HAT49tGZRmMqw8XU"}
+{"code":"ALL","decimal_digits":0,"name":"Albanian Lek","name_plural":"Albanian lekë","rounding":0,"symbol":0,"symbol_native":"Lek","_id":"JHDAbxyrNAKfByMY"}
+{"code":"CHF","decimal_digits":2,"name":"Swiss Franc","name_plural":"Swiss francs","rounding":0.05,"symbol":0.05,"symbol_native":"CHF","_id":"JIln8QLOzeYala50"}
+{"code":"GNF","decimal_digits":0,"name":"Guinean Franc","name_plural":"Guinean francs","rounding":0,"symbol":0,"symbol_native":"FG","_id":"JN1Zqo89BzaZgFsn"}
+{"code":"THB","decimal_digits":2,"name":"Thai Baht","name_plural":"Thai baht","rounding":0,"symbol":0,"symbol_native":"฿","_id":"JjFquQP5MjN0IHhN"}
+{"code":"BWP","decimal_digits":2,"name":"Botswanan Pula","name_plural":"Botswanan pulas","rounding":0,"symbol":0,"symbol_native":"P","_id":"KGEuRGEgwhpz5uqt"}
+{"code":"MOP","decimal_digits":2,"name":"Macanese Pataca","name_plural":"Macanese patacas","rounding":0,"symbol":0,"symbol_native":"MOP$","_id":"KcrYU6MfuDkI7rhp"}
+{"code":"KMF","decimal_digits":0,"name":"Comorian Franc","name_plural":"Comorian francs","rounding":0,"symbol":0,"symbol_native":"FC","_id":"KsdFpYaoLsVB9oIf"}
+{"code":"PEN","decimal_digits":2,"name":"Peruvian Nuevo Sol","name_plural":"Peruvian nuevos soles","rounding":0,"symbol":0,"symbol_native":"S/.","_id":"Lly2zUMZ1yewDL0N"}
+{"code":"UGX","decimal_digits":0,"name":"Ugandan Shilling","name_plural":"Ugandan shillings","rounding":0,"symbol":0,"symbol_native":"USh","_id":"MueB5FowtMRUkwmy"}
+{"code":"CDF","decimal_digits":2,"name":"Congolese Franc","name_plural":"Congolese francs","rounding":0,"symbol":0,"symbol_native":"FrCD","_id":"NAdxD3De4Fk5w1aV"}
+{"code":"EEK","decimal_digits":2,"name":"Estonian Kroon","name_plural":"Estonian kroons","rounding":0,"symbol":0,"symbol_native":"kr","_id":"P9wlYcNxO2WpaMNV"}
+{"code":"USD","decimal_digits":2,"name":"US Dollar","name_plural":"US dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"PNmNvHVvQl447SG5"}
+{"code":"ZMK","decimal_digits":0,"name":"Zambian Kwacha","name_plural":"Zambian kwachas","rounding":0,"symbol":0,"symbol_native":"ZK","_id":"PRmICBKx2tUyiVtI"}
+{"code":"ILS","decimal_digits":2,"name":"Israeli New Sheqel","name_plural":"Israeli new sheqels","rounding":0,"symbol":0,"symbol_native":"₪","_id":"PWb0SFhivcb5Y6KP"}
+{"code":"ZAR","decimal_digits":2,"name":"South African Rand","name_plural":"South African rand","rounding":0,"symbol":0,"symbol_native":"R","_id":"PYXLiyawjd83Fksq"}
+{"code":"CZK","decimal_digits":2,"name":"Czech Republic Koruna","name_plural":"Czech Republic korunas","rounding":0,"symbol":0,"symbol_native":"Kč","_id":"Pb984K9Zn6UuDquh"}
+{"code":"PHP","decimal_digits":2,"name":"Philippine Peso","name_plural":"Philippine pesos","rounding":0,"symbol":0,"symbol_native":"₱","_id":"QGl8GAB6P9on5RdS"}
+{"code":"GTQ","decimal_digits":2,"name":"Guatemalan Quetzal","name_plural":"Guatemalan quetzals","rounding":0,"symbol":0,"symbol_native":"Q","_id":"Qct3GiLx5NYofl8k"}
+{"code":"CLP","decimal_digits":0,"name":"Chilean Peso","name_plural":"Chilean pesos","rounding":0,"symbol":0,"symbol_native":"$","_id":"QeWZeeFW1didDr5c"}
+{"code":"ARS","decimal_digits":2,"name":"Argentine Peso","name_plural":"Argentine pesos","rounding":0,"symbol":0,"symbol_native":"$","_id":"RTcsMAW7s0IgWJge"}
+{"code":"NIO","decimal_digits":2,"name":"Nicaraguan Córdoba","name_plural":"Nicaraguan córdobas","rounding":0,"symbol":0,"symbol_native":"C$","_id":"Rju9Wf5jDH8lxvZq"}
+{"code":"CRC","decimal_digits":0,"name":"Costa Rican Colón","name_plural":"Costa Rican colóns","rounding":0,"symbol":0,"symbol_native":"₡","_id":"RyHht1c5mjHe90Zg"}
+{"code":"AMD","decimal_digits":0,"name":"Armenian Dram","name_plural":"Armenian drams","rounding":0,"symbol":0,"symbol_native":"դր.","_id":"SQOY1JsPNOHlFXrX"}
+{"code":"RUB","decimal_digits":2,"name":"Russian Ruble","name_plural":"Russian rubles","rounding":0,"symbol":0,"symbol_native":"руб.","_id":"SelZQlOXhBLJ5K0g"}
+{"code":"CVE","decimal_digits":2,"name":"Cape Verdean Escudo","name_plural":"Cape Verdean escudos","rounding":0,"symbol":0,"symbol_native":"CV$","_id":"T0kxwBmbrdvKpC8f"}
+{"code":"NAD","decimal_digits":2,"name":"Namibian Dollar","name_plural":"Namibian dollars","rounding":0,"symbol":0,"symbol_native":"N$","_id":"T4THyRzGh6lbogkk"}
+{"code":"IQD","decimal_digits":0,"name":"Iraqi Dinar","name_plural":"Iraqi dinars","rounding":0,"symbol":0,"symbol_native":"د.ع.‏","_id":"TzbgPh3On2K1zV3p"}
+{"code":"MAD","decimal_digits":2,"name":"Moroccan Dirham","name_plural":"Moroccan dirhams","rounding":0,"symbol":0,"symbol_native":"د.م.‏","_id":"UEwmqVwm7NKkcxUq"}
+{"code":"XAF","decimal_digits":0,"name":"CFA Franc BEAC","name_plural":"CFA francs BEAC","rounding":0,"symbol":0,"symbol_native":"FCFA","_id":"Ug9u8ai9AMJCIjb8"}
+{"code":"JMD","decimal_digits":2,"name":"Jamaican Dollar","name_plural":"Jamaican dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"Uhbo0s0wWPwvXBki"}
+{"code":"TZS","decimal_digits":0,"name":"Tanzanian Shilling","name_plural":"Tanzanian shillings","rounding":0,"symbol":0,"symbol_native":"TSh","_id":"VtNoyloNTCl4XuMR"}
+{"code":"GHS","decimal_digits":2,"name":"Ghanaian Cedi","name_plural":"Ghanaian cedis","rounding":0,"symbol":0,"symbol_native":"GH₵","_id":"VuPR7gpS2m9xF9Lf"}
+{"code":"SEK","decimal_digits":2,"name":"Swedish Krona","name_plural":"Swedish kronor","rounding":0,"symbol":0,"symbol_native":"kr","_id":"X1nXbpj8Ucq0rovW"}
+{"code":"RWF","decimal_digits":0,"name":"Rwandan Franc","name_plural":"Rwandan francs","rounding":0,"symbol":0,"symbol_native":"FR","_id":"Xf9ozknS1dQY0oO2"}
+{"code":"JPY","decimal_digits":0,"name":"Japanese Yen","name_plural":"Japanese yen","rounding":0,"symbol":0,"symbol_native":"￥","_id":"XmzoUuk8ogFT0d09"}
+{"code":"EGP","decimal_digits":2,"name":"Egyptian Pound","name_plural":"Egyptian pounds","rounding":0,"symbol":0,"symbol_native":"ج.م.‏","_id":"Y9XsdUFOqFtZW6Mb"}
+{"code":"GEL","decimal_digits":2,"name":"Georgian Lari","name_plural":"Georgian laris","rounding":0,"symbol":0,"symbol_native":"GEL","_id":"YWKVrQUmaSw1Fnyq"}
+{"code":"QAR","decimal_digits":2,"name":"Qatari Rial","name_plural":"Qatari rials","rounding":0,"symbol":0,"symbol_native":"ر.ق.‏","_id":"YZXoPwX7NY5Ap4Ek"}
+{"code":"UZS","decimal_digits":0,"name":"Uzbekistan Som","name_plural":"Uzbekistan som","rounding":0,"symbol":0,"symbol_native":"UZS","_id":"Yek0xjycqUQRQOZn"}
+{"code":"TOP","decimal_digits":2,"name":"Tongan Paʻanga","name_plural":"Tongan paʻanga","rounding":0,"symbol":0,"symbol_native":"T$","_id":"ZD9mZVJZRCyeYBKQ"}
+{"code":"IDR","decimal_digits":0,"name":"Indonesian Rupiah","name_plural":"Indonesian rupiahs","rounding":0,"symbol":0,"symbol_native":"Rp","_id":"aDoKf7t55yzCesCp"}
+{"code":"GBP","decimal_digits":2,"name":"British Pound Sterling","name_plural":"British pounds sterling","rounding":0,"symbol":0,"symbol_native":"£","_id":"aVvAktQGQ0LM31tz"}
+{"code":"BHD","decimal_digits":3,"name":"Bahraini Dinar","name_plural":"Bahraini dinars","rounding":0,"symbol":0,"symbol_native":"د.ب.‏","_id":"buy0XpSg42Bn99JR"}
+{"code":"MGA","decimal_digits":0,"name":"Malagasy Ariary","name_plural":"Malagasy Ariaries","rounding":0,"symbol":0,"symbol_native":"MGA","_id":"bv3a6CHCwfaC7xko"}
+{"code":"LVL","decimal_digits":2,"name":"Latvian Lats","name_plural":"Latvian lati","rounding":0,"symbol":0,"symbol_native":"Ls","_id":"cBwrvdn6gHRSsnpO"}
+{"code":"BYR","decimal_digits":0,"name":"Belarusian Ruble","name_plural":"Belarusian rubles","rounding":0,"symbol":0,"symbol_native":"BYR","_id":"dLly5AdzwWotvv1t"}
+{"code":"NOK","decimal_digits":2,"name":"Norwegian Krone","name_plural":"Norwegian kroner","rounding":0,"symbol":0,"symbol_native":"kr","_id":"eBUqWoOHmmnECR2Z"}
+{"code":"XOF","decimal_digits":0,"name":"CFA Franc BCEAO","name_plural":"CFA francs BCEAO","rounding":0,"symbol":0,"symbol_native":"CFA","_id":"eGyFm4HJGP8cLQa1"}
+{"code":"OMR","decimal_digits":3,"name":"Omani Rial","name_plural":"Omani rials","rounding":0,"symbol":0,"symbol_native":"ر.ع.‏","_id":"edUM4Qgj8iOTxXv0"}
+{"code":"HUF","decimal_digits":0,"name":"Hungarian Forint","name_plural":"Hungarian forints","rounding":0,"symbol":0,"symbol_native":"Ft","_id":"f9LtzWQfoIL45fLB"}
+{"code":"MMK","decimal_digits":0,"name":"Myanma Kyat","name_plural":"Myanma kyats","rounding":0,"symbol":0,"symbol_native":"K","_id":"hYCQX4muZBg4t9CV"}
+{"code":"NGN","decimal_digits":2,"name":"Nigerian Naira","name_plural":"Nigerian nairas","rounding":0,"symbol":0,"symbol_native":"₦","_id":"hi4lIhGt7Y6UOhQX"}
+{"code":"BZD","decimal_digits":2,"name":"Belize Dollar","name_plural":"Belize dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"imM6V5mPH9tB1yCr"}
+{"code":"RON","decimal_digits":2,"name":"Romanian Leu","name_plural":"Romanian lei","rounding":0,"symbol":0,"symbol_native":"RON","_id":"jTfAAdVmq6lg7gNC"}
+{"code":"BND","decimal_digits":2,"name":"Brunei Dollar","name_plural":"Brunei dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"joVzxldZ0codRwrm"}
+{"code":"DKK","decimal_digits":2,"name":"Danish Krone","name_plural":"Danish kroner","rounding":0,"symbol":0,"symbol_native":"kr","_id":"ltnNN37hxQOZy9XX"}
+{"code":"ETB","decimal_digits":2,"name":"Ethiopian Birr","name_plural":"Ethiopian birrs","rounding":0,"symbol":0,"symbol_native":"Br","_id":"maOuns917JrjimqE"}
+{"code":"BAM","decimal_digits":2,"name":"Bosnia-Herzegovina Convertible Mark","name_plural":"Bosnia-Herzegovina convertible marks","rounding":0,"symbol":0,"symbol_native":"KM","_id":"n73SZ3YYNT7VT4rs"}
+{"code":"HRK","decimal_digits":2,"name":"Croatian Kuna","name_plural":"Croatian kunas","rounding":0,"symbol":0,"symbol_native":"kn","_id":"ncxp7nPnLWZvSDAb"}
+{"code":"NPR","decimal_digits":2,"name":"Nepalese Rupee","name_plural":"Nepalese rupees","rounding":0,"symbol":0,"symbol_native":"नेरू","_id":"nuzTSeYknpnCyKBV"}
+{"code":"MUR","decimal_digits":0,"name":"Mauritian Rupee","name_plural":"Mauritian rupees","rounding":0,"symbol":0,"symbol_native":"MURs","_id":"onfEDLJffcLVuRNo"}
+{"code":"LTL","decimal_digits":2,"name":"Lithuanian Litas","name_plural":"Lithuanian litai","rounding":0,"symbol":0,"symbol_native":"Lt","_id":"pzgtsRWiFSD4MjBL"}
+{"code":"HNL","decimal_digits":2,"name":"Honduran Lempira","name_plural":"Honduran lempiras","rounding":0,"symbol":0,"symbol_native":"L","_id":"q3N4zbC1wXSgBU4x"}
+{"code":"VEF","decimal_digits":2,"name":"Venezuelan Bolívar","name_plural":"Venezuelan bolívars","rounding":0,"symbol":0,"symbol_native":"Bs.F.","_id":"q6iv7AsXu8QmQeJ5"}
+{"code":"SGD","decimal_digits":2,"name":"Singapore Dollar","name_plural":"Singapore dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"qQgTzaqsC5q4SNRv"}
+{"code":"KHR","decimal_digits":2,"name":"Cambodian Riel","name_plural":"Cambodian riels","rounding":0,"symbol":0,"symbol_native":"៛","_id":"rFEUZy4O1Pt2w6PY"}
+{"code":"EUR","decimal_digits":2,"name":"Euro","name_plural":"euros","rounding":0,"symbol":0,"symbol_native":"€","_id":"rzz0UufEWNl48Vne"}
+{"code":"MXN","decimal_digits":2,"name":"Mexican Peso","name_plural":"Mexican pesos","rounding":0,"symbol":0,"symbol_native":"$","_id":"sQbilMdzahF7NdZC"}
+{"code":"MYR","decimal_digits":2,"name":"Malaysian Ringgit","name_plural":"Malaysian ringgits","rounding":0,"symbol":0,"symbol_native":"RM","_id":"t48CjTp8WKFOySX3"}
+{"code":"HKD","decimal_digits":2,"name":"Hong Kong Dollar","name_plural":"Hong Kong dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"t7UajadKtDcjsalC"}
+{"code":"BRL","decimal_digits":2,"name":"Brazilian Real","name_plural":"Brazilian reals","rounding":0,"symbol":0,"symbol_native":"R$","_id":"tXhdW3tqnEwhXl9c"}
+{"code":"INR","decimal_digits":2,"name":"Indian Rupee","name_plural":"Indian rupees","rounding":0,"symbol":0,"symbol_native":"টকা","_id":"tYJejbEivbKAnh7m"}
+{"code":"SAR","decimal_digits":2,"name":"Saudi Riyal","name_plural":"Saudi riyals","rounding":0,"symbol":0,"symbol_native":"ر.س.‏","_id":"tbalLKEymKYjk40X"}
+{"code":"VND","decimal_digits":0,"name":"Vietnamese Dong","name_plural":"Vietnamese dong","rounding":0,"symbol":0,"symbol_native":"₫","_id":"tbpaMU91pf39Y9JA"}
+{"code":"BDT","decimal_digits":2,"name":"Bangladeshi Taka","name_plural":"Bangladeshi takas","rounding":0,"symbol":0,"symbol_native":"৳","_id":"u0NyCOFzOmgcCIqV"}
+{"code":"SOS","decimal_digits":0,"name":"Somali Shilling","name_plural":"Somali shillings","rounding":0,"symbol":0,"symbol_native":"Ssh","_id":"uBH4fp5nyaVGD83C"}
+{"code":"KRW","decimal_digits":0,"name":"South Korean Won","name_plural":"South Korean won","rounding":0,"symbol":0,"symbol_native":"₩","_id":"uJbGVSfqVB1e1Qbr"}
+{"code":"DJF","decimal_digits":0,"name":"Djiboutian Franc","name_plural":"Djiboutian francs","rounding":0,"symbol":0,"symbol_native":"Fdj","_id":"uxnN0HNe6XdQYJ24"}
+{"code":"BOB","decimal_digits":2,"name":"Bolivian Boliviano","name_plural":"Bolivian bolivianos","rounding":0,"symbol":0,"symbol_native":"Bs","_id":"vDYsgc7bJKdkRWRy"}
+{"code":"TND","decimal_digits":3,"name":"Tunisian Dinar","name_plural":"Tunisian dinars","rounding":0,"symbol":0,"symbol_native":"د.ت.‏","_id":"vjjpzgvE7JBSXUIo"}
+{"code":"AED","decimal_digits":2,"name":"United Arab Emirates Dirham","name_plural":"UAE dirhams","rounding":0,"symbol":0,"symbol_native":"د.إ.‏","_id":"vvD0mmf5pWz8ylQl"}
+{"code":"LKR","decimal_digits":2,"name":"Sri Lankan Rupee","name_plural":"Sri Lankan rupees","rounding":0,"symbol":0,"symbol_native":"SL Re","_id":"w0jQLYMnMmKdB3ME"}
+{"code":"RSD","decimal_digits":0,"name":"Serbian Dinar","name_plural":"Serbian dinars","rounding":0,"symbol":0,"symbol_native":"дин.","_id":"wIupXLKEIKN3VzS6"}
+{"code":"BIF","decimal_digits":0,"name":"Burundian Franc","name_plural":"Burundian francs","rounding":0,"symbol":0,"symbol_native":"FBu","_id":"wTqOcoQisy4ynuKB"}
+{"code":"LBP","decimal_digits":0,"name":"Lebanese Pound","name_plural":"Lebanese pounds","rounding":0,"symbol":0,"symbol_native":"ل.ل.‏","_id":"wd4PM0bJLji0vNWF"}
+{"code":"IRR","decimal_digits":0,"name":"Iranian Rial","name_plural":"Iranian rials","rounding":0,"symbol":0,"symbol_native":"﷼","_id":"x43ThXBh4SMMwVwl"}
+{"code":"SDG","decimal_digits":2,"name":"Sudanese Pound","name_plural":"Sudanese pounds","rounding":0,"symbol":0,"symbol_native":"SDG","_id":"xAS2WH8K8Kt4592t"}
+{"code":"KZT","decimal_digits":2,"name":"Kazakhstani Tenge","name_plural":"Kazakhstani tenges","rounding":0,"symbol":0,"symbol_native":"тңг.","_id":"xDiMaxQeBznhopv8"}
+{"code":"UYU","decimal_digits":2,"name":"Uruguayan Peso","name_plural":"Uruguayan pesos","rounding":0,"symbol":0,"symbol_native":"$","_id":"xfAU8hb27ybzJqnM"}
+{"code":"MZN","decimal_digits":2,"name":"Mozambican Metical","name_plural":"Mozambican meticals","rounding":0,"symbol":0,"symbol_native":"MTn","_id":"xg1Z4DodYWGZW3Xk"}
+{"code":"LYD","decimal_digits":3,"name":"Libyan Dinar","name_plural":"Libyan dinars","rounding":0,"symbol":0,"symbol_native":"د.ل.‏","_id":"xmajXpbUCVogmrQT"}
+{"code":"KES","decimal_digits":2,"name":"Kenyan Shilling","name_plural":"Kenyan shillings","rounding":0,"symbol":0,"symbol_native":"Ksh","_id":"xquNoaAb2RyX43bc"}
+{"code":"NZD","decimal_digits":2,"name":"New Zealand Dollar","name_plural":"New Zealand dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"y41ofBz5CZ7F2bjG"}
+{"code":"ERN","decimal_digits":2,"name":"Eritrean Nakfa","name_plural":"Eritrean nakfas","rounding":0,"symbol":0,"symbol_native":"Nfk","_id":"yNrEyW7XtusV1EWt"}
+{"code":"MKD","decimal_digits":2,"name":"Macedonian Denar","name_plural":"Macedonian denari","rounding":0,"symbol":0,"symbol_native":"MKD","_id":"zCmBddAS4gI4OwEm"}
+{"code":"CAD","decimal_digits":2,"name":"Canadian Dollar","name_plural":"Canadian dollars","rounding":0,"symbol":0,"symbol_native":"$","_id":"zEOb7J7FM3NADNHO"}
+{"code":"DOP","decimal_digits":2,"name":"Dominican Peso","name_plural":"Dominican pesos","rounding":0,"symbol":0,"symbol_native":"RD$","_id":"zIvntpZ4UpAJQPHy"}
+{"code":"DZD","decimal_digits":2,"name":"Algerian Dinar","name_plural":"Algerian dinars","rounding":0,"symbol":0,"symbol_native":"د.ج.‏","_id":"zd1CjOY7eWfliZJR"}
